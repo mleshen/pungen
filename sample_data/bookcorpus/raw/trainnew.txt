@@ -1,0 +1,306 @@
+starlings|starling|NOUN ,|,|PUNCT new|new|ADJ york|york|NOUN is|be|VERB not|not|ADV the|the|DET place|place|NOUN you|-PRON-|PRON d|would|AUX expect|expect|VERB much|much|ADJ to|to|PART happen|happen|VERB .|.|PUNCT
+its|-PRON-|DET a|a|DET small|small|ADJ quiet|quiet|ADJ town|town|NOUN ,|,|PUNCT the|the|DET kind|kind|NOUN where|where|ADV everyone|everyone|NOUN knows|know|VERB your|-PRON-|DET name|name|NOUN .|.|PUNCT
+its|-PRON-|DET a|a|DET place|place|NOUN where|where|ADV your|-PRON-|DET parents|parent|NOUN would|would|AUX nt|not|ADV even|even|ADV care|care|VERB if|if|ADP you|-PRON-|PRON stayed|stay|VERB out|out|PART late|late|ADJ biking|biking|NOUN with|with|ADP your|-PRON-|DET friends|friend|NOUN .|.|PUNCT
+only|only|ADV because|because|ADP everyone|everyone|NOUN felt|feel|VERB so|so|ADV safe|safe|ADJ ,|,|PUNCT so|so|ADV comfy|comfy|ADJ .|.|PUNCT
+they|-PRON-|PRON do|do|VERB nt|not|ADV know|know|VERB the|the|DET half|half|NOUN of|of|ADP it|-PRON-|PRON .|.|PUNCT
+i|i|PRON know|know|VERB it|-PRON-|PRON all|all|DET and|and|CCONJ starlings|starling|NOUN is|be|VERB not|not|ADV the|the|DET place|place|NOUN where|where|ADV you|-PRON-|PRON want|want|VERB to|to|PART be|be|VERB after|after|ADP dark|dark|ADJ .|.|PUNCT
+the|the|DET only|only|ADJ reason|reason|NOUN why|why|ADV no|no|DET one|one|NOUN knows|know|VERB this|this|DET is|be|VERB because|because|ADP jason|jason|NOUN ,|,|PUNCT emily|emily|ADV ,|,|PUNCT seth|seth|ADJ and|and|CCONJ i|i|PRON have|have|VERB kept|keep|VERB it|-PRON-|PRON that|that|DET way|way|NOUN .|.|PUNCT
+i|i|PRON walked|walk|VERB along|along|ADP the|the|DET empty|empty|ADJ road|road|NOUN alone|alone|ADV ,|,|PUNCT occasionally|occasionally|ADV waving|wave|VERB to|to|ADP passing|pass|VERB kids|kid|NOUN on|on|ADP bikes|bike|NOUN .|.|PUNCT
+my|-PRON-|DET backpack|backpack|NOUN was|be|VERB slung|sling|VERB over|over|ADP my|-PRON-|DET shoulder|shoulder|NOUN ,|,|PUNCT filled|fill|VERB with|with|ADP my|-PRON-|DET writing|writing|NOUN books|book|NOUN and|and|CCONJ sketchpads|sketchpad|NOUN .|.|PUNCT
+i|i|PRON kept|keep|VERB my|-PRON-|DET eyes|eye|NOUN on|on|ADP the|the|DET shadowed|shadowed|ADJ road|road|NOUN ,|,|PUNCT watching|watch|VERB my|-PRON-|DET every|every|DET step|step|NOUN .|.|PUNCT
+usually|usually|ADV i|i|PRON was|be|VERB more|more|ADV aware|aware|ADJ of|of|ADP my|-PRON-|DET surroundings|surrounding|NOUN ,|,|PUNCT but|but|CCONJ today|today|NOUN i|i|PRON was|be|VERB tired|tired|ADJ and|and|CCONJ did|do|VERB nt|not|ADV care|care|VERB if|if|ADP i|i|PRON rammed|ram|VERB into|into|ADP a|a|DET tree|tree|NOUN .|.|PUNCT
+i|i|PRON kicked|kick|VERB a|a|DET rock|rock|NOUN into|into|ADP the|the|DET grass|grass|NOUN .|.|PUNCT
+the|the|DET sun|sun|NOUN was|be|VERB starting|start|VERB to|to|PART set|set|VERB ,|,|PUNCT painting|paint|VERB the|the|DET sky|sky|NOUN in|in|ADP brilliant|brilliant|ADJ oranges|orange|NOUN and|and|CCONJ reds|red|NOUN .|.|PUNCT
+it|-PRON-|PRON slipped|slip|VERB down|down|PART the|the|DET sky|sky|NOUN ,|,|PUNCT allowing|allow|VERB the|the|DET first|first|ADJ stars|star|NOUN to|to|PART peek|peek|VERB out|out|PART from|from|ADP behind|behind|ADP the|the|DET bright|bright|ADJ curtain|curtain|NOUN .|.|PUNCT
+the|the|DET remaining|remain|VERB light|light|ADJ cast|cast|NOUN shadows|shadow|NOUN over|over|ADP everything|everything|NOUN ,|,|PUNCT creating|create|VERB the|the|DET illusion|illusion|NOUN that|that|ADP there|there|ADV was|be|VERB double|double|ADJ of|of|ADP everything|everything|NOUN .|.|PUNCT
+the|the|DET world|world|NOUN prepared|prepare|VERB to|to|PART go|go|VERB into|into|ADP its|-PRON-|DET hours|hour|NOUN of|of|ADP unreal|unreal|ADJ silence|silence|NOUN that|that|DET made|make|VERB it|-PRON-|PRON seem|seem|VERB magical|magical|ADJ ,|,|PUNCT and|and|CCONJ it|-PRON-|PRON really|really|ADV was|be|VERB .|.|PUNCT
+my|-PRON-|DET phone|phone|NOUN buzzed|buzz|VERB and|and|CCONJ i|i|PRON awoke|awake|VERB from|from|ADP my|-PRON-|DET trance|trance|NOUN .|.|PUNCT
+i|i|PRON thumbed|thumb|VERB the|the|DET keypad|keypad|NOUN and|and|CCONJ opened|open|VERB the|the|DET message|message|NOUN seth|seth|ADJ had|have|VERB sent|send|VERB me|-PRON-|PRON .|.|PUNCT
+it|-PRON-|PRON read|read|VERB :|:|PUNCT whatcha|whatcha|NOUN doing|do|VERB ?|?|PUNCT
+i|i|PRON flipped|flip|VERB open|open|VERB the|the|DET pad|pad|NOUN and|and|CCONJ wrote|write|VERB :|:|PUNCT walking|walk|VERB home|home|ADV .|.|PUNCT
+i|i|PRON shoved|shove|VERB it|-PRON-|PRON back|back|ADV in|in|ADP my|-PRON-|DET pocket|pocket|NOUN and|and|CCONJ continued|continue|VERB walking|walk|VERB .|.|PUNCT
+the|the|DET sun|sun|NOUN was|be|VERB almost|almost|ADV gone|go|VERB and|and|CCONJ shadows|shadow|NOUN were|be|VERB starting|start|VERB to|to|PART appear|appear|VERB behind|behind|ADP everything|everything|NOUN .|.|PUNCT
+i|i|PRON looked|look|VERB at|at|ADP my|-PRON-|DET own|own|ADJ shadow|shadow|NOUN ,|,|PUNCT that|that|DET danced|dance|VERB behind|behind|ADP me|-PRON-|PRON .|.|PUNCT
+the|the|DET phone|phone|NOUN buzzed|buzz|VERB again|again|ADV as|as|ADP seth|seth|ADJ sent|send|VERB me|-PRON-|PRON a|a|DET reply|reply|NOUN .|.|PUNCT
+do|do|VERB you|-PRON-|PRON want|want|VERB me|-PRON-|PRON to|to|PART meet|meet|VERB you|-PRON-|PRON ?|?|PUNCT
+i|i|PRON glanced|glance|VERB at|at|ADP the|the|DET nearby|nearby|ADJ woods|wood|NOUN .|.|PUNCT
+my|-PRON-|DET ears|ear|NOUN heard|hear|VERB nothing|nothing|NOUN and|and|CCONJ i|i|PRON did|do|VERB nt|not|ADV see|see|VERB any|any|DET movement|movement|NOUN but|but|CCONJ my|-PRON-|DET hands|hand|NOUN shook|shake|VERB slightly|slightly|ADV as|as|ADP i|i|PRON typed|type|VERB ,|,|PUNCT nothing|nothing|NOUN ,|,|PUNCT i|-PRON-|PRON m|be|VERB fine|fine|ADJ .|.|PUNCT
+i|i|PRON did|do|VERB nt|not|ADV open|open|VERB his|-PRON-|DET reply|reply|NOUN because|because|ADP i|i|PRON knew|know|VERB what|what|PRON it|-PRON-|PRON would|would|VERB say|say|VERB .|.|PUNCT
+i|i|PRON already|already|ADV knew|know|VERB that|that|ADP it|-PRON-|PRON was|be|VERB strangely|strangely|ADV quiet|quiet|ADJ .|.|PUNCT
+maybe|maybe|ADV i|i|PRON could|could|VERB stay|stay|VERB home|home|ADV and|and|CCONJ sleep|sleep|VERB one|one|NUM night|night|NOUN .|.|PUNCT
+or|or|CCONJ maybe|maybe|ADV i|i|PRON could|could|VERB finish|finish|VERB a|a|DET painting|painting|NOUN tonight|tonight|NOUN and|and|CCONJ watch|watch|VERB mom|mom|NOUN do|do|VERB origami|origami|NOUN .|.|PUNCT
+i|i|PRON turned|turn|VERB the|the|DET corner|corner|NOUN ,|,|PUNCT and|and|CCONJ my|-PRON-|DET house|house|NOUN came|come|VERB into|into|ADP view|view|NOUN .|.|PUNCT
+i|i|PRON started|start|VERB to|to|PART climb|climb|VERB the|the|DET hill|hill|NOUN when|when|ADV i|i|PRON froze|freeze|VERB .|.|PUNCT
+out|out|ADP of|of|ADP my|-PRON-|DET left|left|ADJ eye|eye|NOUN i|i|PRON saw|see|VERB the|the|DET outline|outline|NOUN of|of|ADP a|a|DET creature|creature|NOUN .|.|PUNCT
+it|-PRON-|PRON was|be|VERB heading|head|VERB through|through|ADP the|the|DET woods|wood|NOUN in|in|ADP the|the|DET direction|direction|NOUN of|of|ADP my|-PRON-|DET house|house|NOUN .|.|PUNCT
+i|i|PRON swore|swear|VERB under|under|ADP my|-PRON-|DET breath|breath|NOUN and|and|CCONJ took|take|VERB off|off|PART for|for|ADP the|the|DET woods|wood|NOUN .|.|PUNCT
+my|-PRON-|DET feet|foot|NOUN crunched|crunch|VERB on|on|ADP the|the|DET fallen|fall|VERB branches|branch|NOUN and|and|CCONJ leaves|leave|NOUN .|.|PUNCT
+i|i|PRON could|could|VERB see|see|VERB the|the|DET creature|creature|NOUN ahead|ahead|ADV of|of|ADP me|-PRON-|PRON .|.|PUNCT
+i|i|PRON did|do|VERB nt|not|ADV have|have|VERB much|much|ADJ time|time|NOUN .|.|PUNCT
+i|i|PRON placed|place|VERB my|-PRON-|DET bag|bag|NOUN on|on|ADP the|the|DET ground|ground|NOUN and|and|CCONJ crossed|cross|VERB my|-PRON-|DET legs|leg|NOUN .|.|PUNCT
+i|i|PRON started|start|VERB to|to|PART grab|grab|VERB my|-PRON-|DET phone|phone|NOUN but|but|CCONJ stopped|stop|VERB .|.|PUNCT
+i|i|PRON did|do|VERB nt|not|ADV need|need|VERB to|to|PART tell|tell|VERB the|the|DET others|other|NOUN ,|,|PUNCT it|-PRON-|PRON was|be|VERB just|just|ADV one|one|NUM .|.|PUNCT
+and|and|CCONJ if|if|ADP i|i|PRON was|be|VERB lucky|lucky|ADJ ,|,|PUNCT it|-PRON-|PRON would|would|VERB be|be|VERB an|an|DET easy|easy|ADJ take|take|NOUN down|down|PART .|.|PUNCT
+i|i|PRON closed|close|VERB my|-PRON-|DET eyes|eye|NOUN and|and|CCONJ began|begin|VERB my|-PRON-|DET mental|mental|ADJ countdown|countdown|NOUN .|.|PUNCT
+the|the|DET wind|wind|NOUN picked|pick|VERB up|up|PART around|around|ADP me|-PRON-|PRON ,|,|PUNCT as|as|ADP if|if|ADP a|a|DET wind|wind|NOUN current|current|NOUN had|have|VERB just|just|ADV appeared|appear|VERB out|out|ADP of|of|ADP nowhere|nowhere|ADV .|.|PUNCT
+5|5|NUM my|-PRON-|DET body|body|NOUN started|start|VERB to|to|PART feel|feel|VERB hot|hot|ADJ ,|,|PUNCT like|like|ADP i|i|PRON was|be|VERB being|be|VERB hugged|hug|VERB by|by|ADP the|the|DET sun|sun|NOUN .|.|PUNCT
+i|i|PRON hated|hate|VERB this|this|DET part|part|NOUN .|.|PUNCT
+4|4|NUM power|power|NOUN surged|surge|VERB through|through|ADP me|-PRON-|PRON as|as|ADP i|i|PRON was|be|VERB freed|free|VERB from|from|ADP my|-PRON-|DET human|human|ADJ self|self|NOUN .|.|PUNCT
+shivers|shiver|NOUN ran|run|VERB down|down|ADP my|-PRON-|DET spine|spine|NOUN .|.|PUNCT
+3|3|PUNCT i|i|PRON felt|feel|VERB cold|cold|ADJ ,|,|PUNCT like|like|ADP being|be|VERB dipped|dip|VERB in|in|ADP ice|ice|NOUN water|water|NOUN .|.|PUNCT
+the|the|DET breeze|breeze|NOUN picked|pick|VERB up|up|PART even|even|ADV harder|harder|ADV .|.|PUNCT
+2|2|PUNCT i|i|PRON was|be|VERB hollow|hollow|ADJ and|and|CCONJ could|could|VERB probably|probably|ADV see|see|VERB my|-PRON-|DET own|own|ADJ body|body|NOUN if|if|ADP i|i|PRON opened|open|VERB my|-PRON-|DET eyes|eye|NOUN .|.|PUNCT
+but|but|CCONJ i|i|PRON could|could|VERB never|never|ADV get|get|VERB the|the|DET courage|courage|NOUN to|to|PART do|do|VERB that|that|DET .|.|PUNCT
+1|1|NUM the|the|DET wind|wind|NOUN died|die|VERB .|.|PUNCT
+my|-PRON-|DET body|body|NOUN felt|feel|VERB normal|normal|ADJ except|except|ADP it|-PRON-|PRON was|be|VERB different|different|ADJ .|.|PUNCT
+i|i|PRON opened|open|VERB my|-PRON-|DET eyes|eye|NOUN and|and|CCONJ looked|look|VERB over|over|PART to|to|ADP where|where|ADV i|i|PRON just|just|ADV had|have|VERB been|be|VERB or|or|CCONJ still|still|ADV was|be|VERB .|.|PUNCT
+my|-PRON-|DET human|human|ADJ body|body|NOUN slightly|slightly|ADV glowed|glow|VERB as|as|ADP it|-PRON-|PRON sat|sit|VERB in|in|ADP meditation|meditation|NOUN under|under|ADP the|the|DET tree|tree|NOUN .|.|PUNCT
+it|-PRON-|PRON did|do|VERB nt|not|ADV move|move|VERB .|.|PUNCT
+i|i|PRON could|could|VERB see|see|VERB the|the|DET monster|monster|NOUN clearly|clearly|ADV now|now|ADV that|that|ADP i|i|PRON had|have|VERB stepped|step|VERB into|into|ADP its|-PRON-|DET world|world|NOUN .|.|PUNCT
+it|-PRON-|PRON was|be|VERB hunched|hunch|VERB over|over|PART ,|,|PUNCT occasionally|occasionally|ADV touching|touch|VERB the|the|DET ground|ground|NOUN with|with|ADP one|one|NUM of|of|ADP its|-PRON-|DET curled|curled|ADJ front|front|ADJ paws|paw|NOUN .|.|PUNCT
+dark|dark|ADJ saliva|saliva|NOUN dripped|drip|VERB out|out|ADP of|of|ADP its|-PRON-|DET mouth|mouth|NOUN .|.|PUNCT
+the|the|DET beady|beady|ADJ black|black|ADJ eyes|eye|NOUN made|make|VERB it|-PRON-|PRON no|no|DET less|less|ADV scary|scary|ADJ .|.|PUNCT
+i|i|PRON knew|know|VERB exactly|exactly|ADV what|what|PRON it|-PRON-|PRON is|be|VERB .|.|PUNCT
+a|a|DET shiver|shiver|NOUN ran|run|VERB down|down|ADP my|-PRON-|DET spine|spine|NOUN .|.|PUNCT
+thrashers|thrasher|NOUN were|be|VERB probably|probably|ADV one|one|NUM of|of|ADP the|the|DET most|most|ADV feral|feral|ADJ and|and|CCONJ nasty|nasty|ADJ monsters|monster|NOUN i|-PRON-|PRON ve|have|VERB ever|ever|ADV encountered|encounter|VERB .|.|PUNCT
+they|-PRON-|PRON sometimes|sometimes|ADV travel|travel|VERB alone|alone|ADJ or|or|CCONJ hunt|hunt|NOUN in|in|ADP packs|pack|NOUN .|.|PUNCT
+they|-PRON-|PRON re|be|VERB awful|awful|ADJ in|in|ADP packs|pack|NOUN ,|,|PUNCT extremely|extremely|ADV hard|hard|ADJ to|to|PART take|take|VERB out|out|PART without|without|ADP their|-PRON-|DET knowledge|knowledge|NOUN of|of|ADP your|-PRON-|DET presence|presence|NOUN .|.|PUNCT
+i|i|PRON placed|place|VERB an|an|DET arrow|arrow|NOUN in|in|ADP my|-PRON-|DET bow|bow|NOUN ,|,|PUNCT and|and|CCONJ aimed|aim|VERB for|for|ADP the|the|DET head|head|NOUN .|.|PUNCT
+i|i|PRON could|could|AUX nt|not|ADV let|let|VERB the|the|DET creature|creature|NOUN reach|reach|VERB my|-PRON-|DET house|house|NOUN .|.|PUNCT
+i|i|PRON pulled|pull|VERB back|back|PART the|the|DET string|string|NOUN ,|,|PUNCT and|and|CCONJ then|then|ADV stopped|stop|VERB .|.|PUNCT
+i|i|PRON could|could|AUX nt|not|ADV take|take|VERB out|out|PART one|one|NUM of|of|ADP these|these|DET like|like|ADJ ,|,|PUNCT this|this|DET unless|unless|ADP i|i|PRON set|set|VERB it|-PRON-|PRON on|on|ADP fire|fire|NOUN .|.|PUNCT
+but|but|CCONJ emily|emily|ADV was|be|VERB nt|not|ADV here|here|ADV .|.|PUNCT
+i|i|PRON could|could|VERB take|take|VERB it|-PRON-|PRON out|out|PART with|with|ADP a|a|DET few|few|ADJ arrows|arrow|NOUN but|but|CCONJ its|-PRON-|DET best|good|ADJ to|to|PART kill|kill|VERB thrashers|thrasher|NOUN before|before|ADP they|-PRON-|PRON realize|realize|VERB you|-PRON-|PRON re|be|VERB there|there|ADV .|.|PUNCT
+instead|instead|ADV i|i|PRON lowered|lower|VERB my|-PRON-|DET bow|bow|NOUN and|and|CCONJ slowly|slowly|ADV crept|creep|VERB up|up|PART to|to|ADP it|-PRON-|PRON ,|,|PUNCT until|until|ADP i|i|PRON could|could|VERB see|see|VERB the|the|DET hideous|hideous|ADJ claws|claws|NOUN on|on|ADP its|-PRON-|DET hands|hand|NOUN and|and|CCONJ the|the|DET hatred|hatred|NOUN in|in|ADP its|-PRON-|DET eyes|eye|NOUN .|.|PUNCT
+thrashers|thrasher|NOUN hate|hate|VERB everything|everything|NOUN and|and|CCONJ sometimes|sometimes|ADV i|i|PRON wonder|wonder|VERB how|how|ADV they|-PRON-|PRON tolerate|tolerate|VERB each|each|DET other|other|ADJ .|.|PUNCT
+i|i|PRON aimed|aim|VERB for|for|ADP the|the|DET head|head|NOUN again|again|ADV and|and|CCONJ released|release|VERB the|the|DET arrow|arrow|NOUN .|.|PUNCT
+it|-PRON-|PRON whizzed|whiz|VERB silently|silently|ADV into|into|ADP the|the|DET thrasher|thrasher|NOUN and|and|CCONJ it|-PRON-|PRON howled|howl|VERB in|in|ADP pain|pain|NOUN as|as|ADP the|the|DET arrow|arrow|NOUN dug|dig|VERB into|into|ADP its|-PRON-|DET fur|fur|NOUN .|.|PUNCT
+it|-PRON-|PRON whirled|whirl|VERB around|around|ADV ,|,|PUNCT facing|face|VERB me|-PRON-|PRON .|.|PUNCT
+a|a|DET low|low|ADJ growl|growl|NOUN sounded|sound|VERB in|in|ADP its|-PRON-|DET throat|throat|NOUN and|and|CCONJ it|-PRON-|PRON charged|charge|VERB .|.|PUNCT
+i|i|PRON ducked|duck|VERB as|as|ADP it|-PRON-|PRON slashed|slash|VERB my|-PRON-|DET side|side|NOUN and|and|CCONJ i|i|PRON winced|wince|VERB .|.|PUNCT
+my|-PRON-|DET shirt|shirt|NOUN slowly|slowly|ADV turned|turn|VERB blue|blue|ADJ from|from|ADP the|the|DET trickling|trickle|VERB wound|wound|NOUN .|.|PUNCT
+yes|yes|INTJ ,|,|PUNCT blue|blue|ADJ ,|,|PUNCT my|-PRON-|DET blood|blood|NOUN is|be|VERB blue|blue|ADJ .|.|PUNCT
+it|-PRON-|PRON turned|turn|VERB back|back|ADV around|around|ADV and|and|CCONJ threw|throw|VERB its|-PRON-|DET self|self|NOUN at|at|ADP me|-PRON-|PRON .|.|PUNCT
+this|this|DET time|time|NOUN i|i|PRON was|be|VERB prepared|prepare|VERB .|.|PUNCT
+i|i|PRON pulled|pull|VERB out|out|PART my|-PRON-|DET hunting|hunting|NOUN knife|knife|NOUN out|out|PART just|just|ADV as|as|ADP he|-PRON-|PRON landed|land|VERB on|on|ADP me|-PRON-|PRON .|.|PUNCT
+he|-PRON-|PRON yelped|yelp|VERB and|and|CCONJ went|go|VERB limp|limp|ADJ .|.|PUNCT
+i|i|PRON pushed|push|VERB him|-PRON-|PRON off|off|PART and|and|CCONJ grabbed|grab|VERB my|-PRON-|DET fallen|fallen|ADJ bow|bow|NOUN ,|,|PUNCT the|the|DET familiar|familiar|ADJ feeling|feeling|NOUN of|of|ADP the|the|DET wood|wood|NOUN boosting|boost|VERB my|-PRON-|DET confidence|confidence|NOUN .|.|PUNCT
+i|i|PRON turned|turn|VERB back|back|ADV around|around|ADV and|and|CCONJ started|start|VERB back|back|ADV where|where|ADV i|i|PRON left|leave|VERB off|off|PART ,|,|PUNCT but|but|CCONJ then|then|ADV a|a|DET body|body|NOUN slammed|slam|VERB into|into|ADP me|-PRON-|PRON .|.|PUNCT
+i|i|PRON just|just|ADV had|have|VERB enough|enough|ADJ time|time|NOUN to|to|PART see|see|VERB the|the|DET thrasher|thrasher|NOUN ,|,|PUNCT before|before|ADP the|the|DET fur|fur|NOUN and|and|CCONJ dirt|dirt|NOUN filled|fill|VERB my|-PRON-|DET vision|vision|NOUN .|.|PUNCT
+i|i|PRON spit|spit|VERB out|out|PART the|the|DET clump|clump|NOUN of|of|ADP wiry|wiry|ADJ hair|hair|NOUN that|that|DET had|have|VERB somehow|somehow|ADV found|find|VERB its|-PRON-|DET way|way|NOUN into|into|ADP my|-PRON-|DET gasping|gasping|NOUN mouth|mouth|NOUN .|.|PUNCT
+i|i|PRON felt|feel|VERB a|a|DET searing|searing|ADJ pain|pain|NOUN as|as|ADP the|the|DET thrasher|thrasher|NOUN raked|rake|VERB my|-PRON-|DET left|left|ADJ leg|leg|NOUN .|.|PUNCT
+i|i|PRON closed|close|VERB my|-PRON-|DET eyes|eye|NOUN against|against|ADP the|the|DET pain|pain|NOUN ,|,|PUNCT trying|try|VERB to|to|PART focus|focus|VERB myself|-PRON-|PRON against|against|ADP the|the|DET dull|dull|ADJ throb|throb|NOUN in|in|ADP my|-PRON-|DET shin|shin|NOUN .|.|PUNCT
+then|then|ADV the|the|DET thrasher|thrasher|NOUN went|go|VERB limp|limp|ADJ against|against|ADP me|-PRON-|PRON .|.|PUNCT
+it|-PRON-|PRON was|be|VERB hauled|haul|VERB off|off|ADP of|of|ADP my|-PRON-|DET body|body|NOUN and|and|CCONJ i|i|PRON found|find|VERB myself|-PRON-|PRON looking|look|VERB up|up|PART into|into|ADP the|the|DET face|face|NOUN of|of|ADP a|a|DET very|very|ADV unhappy|unhappy|ADJ dark|dark|ADJ blue|blue|ADJ haired|haired|ADJ boy|boy|NOUN .|.|PUNCT
+his|-PRON-|DET sword|sword|NOUN was|be|VERB gripped|grip|VERB tightly|tightly|ADV in|in|ADP his|-PRON-|DET clenched|clenched|ADJ fingers|finger|NOUN and|and|CCONJ a|a|DET look|look|NOUN of|of|ADP amusement|amusement|NOUN ,|,|PUNCT or|or|CCONJ many|many|ADJ it|-PRON-|PRON was|be|VERB anger|anger|NOUN ,|,|PUNCT shone|shine|VERB on|on|ADP his|-PRON-|DET face|face|NOUN .|.|PUNCT
+i|i|PRON swallowed|swallow|VERB and|and|CCONJ collected|collect|VERB my|-PRON-|DET weapons|weapon|NOUN from|from|ADP the|the|DET ground|ground|NOUN ,|,|PUNCT not|not|ADV daring|dare|VERB to|to|PART look|look|VERB at|at|ADP my|-PRON-|DET leg|leg|NOUN .|.|PUNCT
+hi|hi|INTJ seth|seth|ADJ ,|,|PUNCT this|this|DET is|be|VERB unexpected|unexpected|ADJ .|.|PUNCT
+seth|seth|ADJ glared|glare|VERB at|at|ADP me|-PRON-|PRON and|and|CCONJ pulled|pull|VERB me|-PRON-|PRON up|up|PART .|.|PUNCT
+he|-PRON-|PRON was|be|VERB definitely|definitely|ADV angry|angry|ADJ at|at|ADP me|-PRON-|PRON .|.|PUNCT
+i|i|PRON tried|try|VERB to|to|PART place|place|VERB weight|weight|NOUN on|on|ADP my|-PRON-|DET leg|leg|NOUN but|but|CCONJ winced|wince|VERB as|as|ADP pain|pain|NOUN shot|shoot|VERB up|up|PART it|-PRON-|PRON .|.|PUNCT
+he|-PRON-|PRON kicked|kick|VERB the|the|DET dead|dead|ADJ thrasher|thrasher|NOUN one|one|NUM more|more|ADJ time|time|NOUN before|before|ADP sheathing|sheathe|VERB his|-PRON-|DET sword|sword|NOUN .|.|PUNCT
+you|-PRON-|PRON know|know|VERB better|well|ADJ jazell|jazell|NOUN then|then|ADV to|to|PART take|take|VERB on|on|PART a|a|DET monster|monster|NOUN by|by|ADP yourself|-PRON-|PRON .|.|PUNCT
+you|-PRON-|PRON never|never|ADV know|know|VERB what|what|PRON kind|kind|NOUN it|-PRON-|PRON is|be|VERB until|until|ADP you|-PRON-|PRON have|have|VERB already|already|ADV changed|change|VERB ,|,|PUNCT he|-PRON-|PRON scolded|scold|VERB me|-PRON-|PRON and|and|CCONJ i|i|PRON could|could|VERB feel|feel|VERB a|a|DET lecture|lecture|NOUN coming|come|VERB .|.|PUNCT
+i|i|PRON looked|look|VERB down|down|PART at|at|ADP leg|leg|NOUN .|.|PUNCT
+claw|claw|NOUN marks|mark|NOUN ran|run|VERB up|up|PART my|-PRON-|DET shin|shin|NOUN and|and|CCONJ my|-PRON-|DET blue|blue|ADJ blood|blood|NOUN was|be|VERB soaking|soak|VERB my|-PRON-|DET pants|pant|NOUN .|.|PUNCT
+i|i|PRON had|have|VERB to|to|PART seth|seth|VERB ;|;|PUNCT it|-PRON-|PRON was|be|VERB heading|head|VERB for|for|ADP my|-PRON-|DET house|house|NOUN .|.|PUNCT
+that|that|DET made|make|VERB me|-PRON-|PRON panic|panic|VERB a|a|DET bit|bit|NOUN .|.|PUNCT
+i|i|PRON do|do|VERB nt|not|ADV care|care|VERB jazell|jazell|NOUN ;|;|PUNCT if|if|ADP i|i|PRON had|have|VERB nt|not|ADV been|be|VERB here|here|ADV i|i|PRON would|would|VERB have|have|VERB found|find|VERB you|-PRON-|PRON shredded|shred|VERB to|to|ADP small|small|ADJ pieces|piece|NOUN .|.|PUNCT
+all|all|DET you|-PRON-|PRON had|have|VERB to|to|PART do|do|VERB was|be|VERB send|send|VERB me|-PRON-|PRON a|a|DET quick|quick|ADJ text|text|NOUN and|and|CCONJ i|i|PRON would|would|VERB have|have|VERB showed|show|VERB up|up|PART to|to|PART help|help|VERB .|.|PUNCT
+but|but|CCONJ you|-PRON-|PRON did|do|VERB nt|not|ADV .|.|PUNCT
+i|i|PRON sighed|sigh|VERB in|in|ADP annoyance|annoyance|NOUN ,|,|PUNCT not|not|ADV in|in|ADP the|the|DET mood|mood|NOUN for|for|ADP this|this|DET right|right|ADV now|now|ADV .|.|PUNCT
+seth|seth|ADJ was|be|VERB like|like|ADP this|this|DET sometimes|sometimes|ADV ,|,|PUNCT strict|strict|ADJ and|and|CCONJ serious|serious|ADJ ,|,|PUNCT but|but|CCONJ he|-PRON-|PRON was|be|VERB normally|normally|ADV a|a|DET jokester|jokester|NOUN .|.|PUNCT
+he|-PRON-|PRON s|s|VERB strict|strict|ADJ on|on|ADP the|the|DET fact|fact|NOUN that|that|ADP we|-PRON-|PRON attack|attack|VERB in|in|ADP groups|group|NOUN ,|,|PUNCT mostly|mostly|ADV for|for|ADP the|the|DET reason|reason|NOUN that|that|DET he|-PRON-|PRON did|do|VERB nt|not|ADV want|want|VERB anything|anything|NOUN to|to|PART happen|happen|VERB to|to|ADP our|-PRON-|DET group|group|NOUN .|.|PUNCT
+i|i|PRON started|start|VERB to|to|PART slowly|slowly|ADV limp|limp|VERB back|back|ADV to|to|ADP my|-PRON-|DET body|body|NOUN but|but|CCONJ seth|seth|ADJ just|just|ADV disappeared|disappear|VERB from|from|ADP my|-PRON-|DET side|side|NOUN .|.|PUNCT
+i|i|PRON ,|,|PUNCT however|however|ADV ,|,|PUNCT had|have|VERB to|to|PART stiffly|stiffly|ADV make|make|VERB my|-PRON-|DET way|way|NOUN to|to|ADP my|-PRON-|DET dormant|dormant|ADJ human|human|ADJ body|body|NOUN .|.|PUNCT
+once|once|ADP i|i|PRON was|be|VERB near|near|ADP it|-PRON-|PRON ,|,|PUNCT i|i|PRON closed|close|VERB my|-PRON-|DET eyes|eye|NOUN and|and|CCONJ the|the|DET wind|wind|NOUN picked|pick|VERB back|back|ADV up|up|PART .|.|PUNCT
+my|-PRON-|DET body|body|NOUN felt|feel|VERB hot|hot|ADJ and|and|CCONJ cold|cold|ADJ simultaneously|simultaneously|ADV as|as|ADP i|i|PRON returned|return|VERB .|.|PUNCT
+i|i|PRON reopened|reopen|VERB my|-PRON-|DET eyes|eye|NOUN and|and|CCONJ stood|stand|VERB up|up|PART ,|,|PUNCT stretched|stretch|VERB ,|,|PUNCT and|and|CCONJ grabbed|grab|VERB my|-PRON-|DET bag|bag|NOUN .|.|PUNCT
+my|-PRON-|DET back|back|NOUN sent|send|VERB a|a|DET chorus|chorus|NOUN of|of|ADP cracks|crack|NOUN cascading|cascade|VERB upwards|upwards|ADV as|as|ADP i|i|PRON straightened|straighten|VERB myself|-PRON-|PRON .|.|PUNCT
+i|i|PRON raised|raise|VERB the|the|DET side|side|NOUN of|of|ADP my|-PRON-|DET shirt|shirt|NOUN to|to|PART find|find|VERB the|the|DET thin|thin|ADJ ,|,|PUNCT red|red|ADJ scratch|scratch|NOUN marks|mark|NOUN .|.|PUNCT
+any|any|DET injuries|injury|NOUN i|i|PRON get|get|VERB in|in|ADP my|-PRON-|DET hunter|hunter|NOUN form|form|NOUN i|i|PRON have|have|VERB when|when|ADV i|i|PRON become|become|VERB human|human|ADJ again|again|ADV ,|,|PUNCT just|just|ADV not|not|ADV as|as|ADV severe|severe|ADJ .|.|PUNCT
+i|i|PRON quickly|quickly|ADV ran|run|VERB my|-PRON-|DET fingers|finger|NOUN over|over|ADP the|the|DET darker|darker|NOUN ,|,|PUNCT thicker|thick|ADJ marks|mark|NOUN on|on|ADP my|-PRON-|DET shin|shin|NOUN ,|,|PUNCT the|the|DET skin|skin|NOUN sore|sore|ADJ and|and|CCONJ purple|purple|ADJ .|.|PUNCT
+i|i|PRON quickly|quickly|ADV checked|check|VERB myself|-PRON-|PRON for|for|ADP any|any|DET other|other|ADJ injures|injure|NOUN i|i|PRON might|may|VERB have|have|VERB acquired|acquire|VERB from|from|ADP my|-PRON-|DET tangle|tangle|NOUN with|with|ADP the|the|DET thrasher|thrasher|NOUN ,|,|PUNCT but|but|CCONJ all|all|DET i|i|PRON found|find|VERB was|be|VERB a|a|DET bunch|bunch|NOUN of|of|ADP bruises|bruise|NOUN .|.|PUNCT
+seth|seth|ADJ seemed|seem|VERB to|to|PART have|have|VERB disappeared|disappear|VERB ,|,|PUNCT so|so|ADV i|i|PRON trudged|trudge|VERB down|down|ADP the|the|DET road|road|NOUN to|to|ADP my|-PRON-|DET house|house|NOUN .|.|PUNCT
+its|-PRON-|DET cozy|cozy|ADJ familiar|familiar|ADJ blue|blue|ADJ paint|paint|NOUN and|and|CCONJ white|white|ADJ shutters|shutter|NOUN helped|help|VERB to|to|PART relax|relax|VERB me|-PRON-|PRON as|as|ADP i|i|PRON pushed|push|VERB open|open|ADJ the|the|DET door|door|NOUN .|.|PUNCT
+my|-PRON-|DET house|house|NOUN was|be|VERB nt|not|ADV very|very|ADV big|big|ADJ and|and|CCONJ fancy|fancy|ADJ ;|;|PUNCT it|-PRON-|PRON was|be|VERB actually|actually|ADV pretty|pretty|ADV plain|plain|ADJ but|but|CCONJ that|that|DET s|s|VERB why|why|ADV i|i|PRON loved|love|VERB it|-PRON-|PRON .|.|PUNCT
+it|-PRON-|PRON had|have|VERB two|two|NUM floors|floor|NOUN ,|,|PUNCT with|with|ADP a|a|DET fair|fair|ADJ sized|sized|ADJ kitchen|kitchen|NOUN and|and|CCONJ a|a|DET mini|mini|ADJ living|living|NOUN room|room|NOUN .|.|PUNCT
+my|-PRON-|DET room|room|NOUN was|be|VERB just|just|ADV up|up|ADP the|the|DET stairs|stair|NOUN ,|,|PUNCT and|and|CCONJ it|-PRON-|PRON beckoned|beckon|VERB to|to|ADP me|-PRON-|PRON even|even|ADV though|though|ADP i|i|PRON was|be|VERB more|more|ADV interested|interested|ADJ in|in|ADP dinner|dinner|NOUN .|.|PUNCT
+my|-PRON-|DET mom|mom|NOUN was|be|VERB cooking|cook|VERB in|in|ADP the|the|DET kitchen|kitchen|NOUN and|and|CCONJ my|-PRON-|DET dad|dad|NOUN was|be|VERB sitting|sit|VERB at|at|ADP the|the|DET kitchen|kitchen|NOUN table|table|NOUN going|go|VERB through|through|ADP his|-PRON-|DET usual|usual|ADJ paper|paper|NOUN work|work|NOUN .|.|PUNCT
+he|-PRON-|PRON looked|look|VERB up|up|PART as|as|ADP i|i|PRON entered|enter|VERB ,|,|PUNCT pushing|push|VERB his|-PRON-|DET glasses|glass|NOUN back|back|ADV up|up|PART his|-PRON-|DET face|face|NOUN .|.|PUNCT
+hi|hi|INTJ sweetheart|sweetheart|NOUN ,|,|PUNCT finally|finally|ADV home|home|ADV ?|?|PUNCT
+he|-PRON-|PRON asked|ask|VERB giving|give|VERB me|-PRON-|PRON a|a|DET warm|warm|ADJ smile|smile|NOUN .|.|PUNCT
+i|i|PRON kissed|kiss|VERB his|-PRON-|DET cheek|cheek|NOUN and|and|CCONJ my|-PRON-|DET moms|mom|NOUN before|before|ADP heading|head|VERB toward|toward|ADP the|the|DET stairs|stair|NOUN .|.|PUNCT
+dinners|dinner|NOUN ready|ready|ADJ in|in|ADP a|a|DET few|few|ADJ minutes|minute|NOUN ,|,|PUNCT jazell|jazell|INTJ !|!|PUNCT
+my|-PRON-|DET mom|mom|NOUN called|call|VERB as|as|ADP i|i|PRON climbed|climb|VERB the|the|DET stairs|stair|NOUN ,|,|PUNCT eager|eager|ADJ to|to|PART collapse|collapse|VERB on|on|ADP my|-PRON-|DET bed|bed|NOUN for|for|ADP a|a|DET few|few|ADJ minutes|minute|NOUN .|.|PUNCT
+my|-PRON-|DET room|room|NOUN was|be|VERB painted|paint|VERB a|a|DET light|light|ADJ green|green|NOUN ,|,|PUNCT with|with|ADP a|a|DET bed|bed|NOUN shoved|shove|VERB in|in|ADP the|the|DET corner|corner|NOUN and|and|CCONJ a|a|DET bookshelf|bookshelf|NOUN overflowing|overflow|VERB with|with|ADP books|book|NOUN .|.|PUNCT
+i|i|PRON had|have|VERB a|a|DET small|small|ADJ desk|desk|NOUN to|to|ADP the|the|DET left|left|NOUN of|of|ADP my|-PRON-|DET bed|bed|NOUN that|that|DET was|be|VERB piled|pile|VERB up|up|PART high|high|ADV with|with|ADP homework|homework|NOUN and|and|CCONJ random|random|ADJ drawings|drawing|NOUN .|.|PUNCT
+i|i|PRON threw|throw|VERB my|-PRON-|DET bag|bag|NOUN on|on|ADP my|-PRON-|DET bed|bed|NOUN and|and|CCONJ took|take|VERB off|off|PART my|-PRON-|DET shoes|shoe|NOUN .|.|PUNCT
+then|then|ADV i|i|PRON headed|head|VERB back|back|ADV down|down|PART stairs|stair|NOUN to|to|PART help|help|VERB set|set|VERB the|the|DET table|table|NOUN .|.|PUNCT
+my|-PRON-|DET mom|mom|NOUN handed|hand|VERB me|-PRON-|PRON some|some|DET dishes|dish|NOUN and|and|CCONJ utensils|utensil|NOUN .|.|PUNCT
+i|i|PRON set|set|VERB a|a|DET plate|plate|NOUN down|down|PART in|in|ADP front|front|NOUN of|of|ADP my|-PRON-|DET dad|dad|NOUN .|.|PUNCT
+he|-PRON-|PRON frowned|frown|VERB and|and|CCONJ pointed|point|VERB to|to|ADP my|-PRON-|DET scratched|scratch|VERB shin|shin|NOUN .|.|PUNCT
+he|-PRON-|PRON asked|ask|VERB ,|,|PUNCT and|and|CCONJ studied|study|VERB my|-PRON-|DET leg|leg|NOUN .|.|PUNCT
+i|i|PRON tripped|trip|VERB on|on|ADP a|a|DET crack|crack|NOUN and|and|CCONJ scraped|scrape|VERB my|-PRON-|DET leg|leg|NOUN .|.|PUNCT
+i|i|PRON said|say|VERB flatly|flatly|ADV ,|,|PUNCT the|the|DET lie|lie|NOUN rolling|roll|VERB off|off|PART my|-PRON-|DET tongue|tongue|NOUN easily|easily|ADV .|.|PUNCT
+i|i|PRON placed|place|VERB my|-PRON-|DET last|last|ADJ dish|dish|NOUN down|down|PART and|and|CCONJ sat|sit|VERB in|in|ADP my|-PRON-|DET chair|chair|NOUN .|.|PUNCT
+you|-PRON-|PRON re|be|VERB so|so|ADV clumsy|clumsy|ADJ .|.|PUNCT
+i|i|PRON would|would|AUX nt|not|ADV be|be|VERB surprised|surprised|ADJ if|if|ADP you|-PRON-|PRON tripped|trip|VERB on|on|ADP your|-PRON-|DET own|own|ADJ feet|foot|NOUN .|.|PUNCT
+yup|yup|INTJ ,|,|PUNCT that|that|DET s|s|VERB me|-PRON-|PRON ,|,|PUNCT clumsy|clumsy|ADJ .|.|PUNCT
+i|i|PRON pulled|pull|VERB my|-PRON-|DET leg|leg|NOUN close|close|ADV to|to|ADP my|-PRON-|DET body|body|NOUN .|.|PUNCT
+my|-PRON-|DET parents|parent|NOUN had|have|VERB believed|believe|VERB for|for|ADP a|a|DET long|long|ADJ time|time|NOUN that|that|DET i|i|PRON was|be|VERB a|a|DET klutz|klutz|NOUN .|.|PUNCT
+that|that|DET was|be|VERB the|the|DET only|only|ADJ way|way|NOUN to|to|PART explain|explain|VERB the|the|DET million|million|NUM of|of|ADP cuts|cut|NOUN and|and|CCONJ bruises|bruise|NOUN i|i|PRON gained|gain|VERB from|from|ADP fighting|fight|VERB creatures|creature|NOUN .|.|PUNCT
+the|the|DET truth|truth|NOUN is|be|VERB that|that|ADP i|i|PRON have|have|VERB really|really|ADV great|great|ADJ balance|balance|NOUN ,|,|PUNCT which|which|DET i|i|PRON had|have|VERB gained|gain|VERB from|from|ADP so|so|ADV much|much|ADJ fighting|fighting|NOUN .|.|PUNCT
+i|i|PRON was|be|VERB a|a|DET little|little|ADJ klutzy|klutzy|NOUN when|when|ADV i|i|PRON was|be|VERB small|small|ADJ ,|,|PUNCT so|so|ADV it|-PRON-|PRON was|be|VERB easy|easy|ADJ for|for|ADP my|-PRON-|DET parents|parent|NOUN to|to|PART believe|believe|VERB i|i|PRON still|still|ADV was|be|VERB .|.|PUNCT
+mom|mom|NOUN placed|place|VERB the|the|DET food|food|NOUN on|on|ADP the|the|DET table|table|NOUN .|.|PUNCT
+after|after|ADP dinner|dinner|NOUN i|i|PRON went|go|VERB straight|straight|ADV up|up|PART stairs|stair|NOUN to|to|PART go|go|VERB to|to|ADP sleep|sleep|NOUN .|.|PUNCT
+and|and|CCONJ hopefully|hopefully|ADV my|-PRON-|DET phone|phone|NOUN would|would|AUX nt|not|ADV stop|stop|VERB me|-PRON-|PRON like|like|ADP it|-PRON-|PRON did|did|VERB most|most|ADJ nights|night|NOUN .|.|PUNCT
+monsters|monster|NOUN loved|love|VERB to|to|PART come|come|VERB out|out|PART at|at|ADP night|night|NOUN and|and|CCONJ cause|cause|ADP trouble|trouble|NOUN .|.|PUNCT
+they|-PRON-|PRON never|never|ADV seem|seem|VERB to|to|PART rest|rest|VERB ,|,|PUNCT much|much|ADV to|to|ADP my|-PRON-|DET annoyance|annoyance|NOUN .|.|PUNCT
+i|i|PRON sighed|sigh|VERB and|and|CCONJ rolled|roll|VERB over|over|PART ,|,|PUNCT burying|bury|VERB my|-PRON-|DET face|face|NOUN in|in|ADP my|-PRON-|DET pillow|pillow|NOUN .|.|PUNCT
+i|i|PRON managed|manage|VERB to|to|PART think|think|VERB about|about|ADP something|something|NOUN other|other|ADJ than|than|ADP creatures|creature|NOUN that|that|DET go|go|VERB bump|bump|VERB in|in|ADP the|the|DET night|night|NOUN as|as|ADP i|i|PRON drifted|drift|VERB off|off|PART to|to|ADP sleep|sleep|VERB .|.|PUNCT
+in|in|ADP the|the|DET morning|morning|NOUN i|i|PRON changed|change|VERB and|and|CCONJ ran|run|VERB down|down|PART stairs|stair|NOUN and|and|CCONJ left|leave|VERB a|a|DET note|note|NOUN saying|say|VERB i|i|PRON was|be|VERB going|go|VERB out|out|PART to|to|PART eat|eat|VERB with|with|ADP jason|jason|NOUN ,|,|PUNCT emily|emily|ADV and|and|CCONJ seth|seth|ADJ .|.|PUNCT
+it|-PRON-|PRON took|take|VERB me|-PRON-|PRON minutes|minute|NOUN to|to|PART speed|speed|VERB down|down|PART to|to|ADP the|the|DET small|small|ADJ breakfast|breakfast|NOUN restaurant|restaurant|NOUN in|in|ADP town|town|NOUN .|.|PUNCT
+i|i|PRON chained|chain|VERB up|up|PART my|-PRON-|DET bike|bike|NOUN and|and|CCONJ walked|walk|VERB over|over|ADV to|to|ADP the|the|DET plastic|plastic|ADJ blue|blue|ADJ table|table|NOUN my|-PRON-|DET friends|friend|NOUN had|have|VERB occupied|occupy|VERB .|.|PUNCT
+i|i|PRON slid|slide|VERB in|in|ADP next|next|ADV to|to|ADP emily|emily|ADV ,|,|PUNCT who|who|PRON was|be|VERB talking|talk|VERB about|about|ADP some|some|DET book|book|NOUN she|-PRON-|PRON had|have|VERB read|read|VERB recently|recently|ADV .|.|PUNCT
+jason|jason|PROPN ,|,|PUNCT who|who|PRON sat|sit|VERB next|next|ADV to|to|ADP her|-PRON-|PRON ,|,|PUNCT was|be|VERB pretending|pretend|VERB to|to|PART be|be|VERB fascinated|fascinate|VERB by|by|ADP her|-PRON-|DET rant|rant|NOUN .|.|PUNCT
+emily|emily|ADV stopped|stop|VERB in|in|ADP mid|mid|NOUN -|-|NOUN sentence|sentence|NOUN when|when|ADV she|-PRON-|PRON noticed|notice|VERB me|-PRON-|PRON sitting|sit|VERB beside|beside|ADP her|-PRON-|PRON .|.|PUNCT
+jazell|jazell|INTJ ,|,|PUNCT you|-PRON-|PRON re|be|VERB here|here|ADV !|!|PUNCT
+is|be|VERB it|-PRON-|PRON true|true|ADJ ,|,|PUNCT did|did|VERB you|-PRON-|PRON take|take|VERB on|on|PART a|a|DET monster|monster|NOUN by|by|ADP yourself|-PRON-|PRON yesterday|yesterday|NOUN ?|?|PUNCT
+i|i|PRON sighed|sigh|VERB ,|,|PUNCT shooting|shoot|VERB a|a|DET look|look|NOUN at|at|ADP seth|seth|ADJ .|.|PUNCT
+thanks|thank|NOUN tattle|tattle|ADJ -|-|PUNCT tale|tale|NOUN seth|seth|NOUN .|.|PUNCT
+well|well|INTJ you|-PRON-|PRON did|did|VERB and|and|CCONJ i|i|PRON thought|think|VERB the|the|DET group|group|NOUN had|have|VERB a|a|DET right|right|NOUN to|to|PART know|know|VERB that|that|DET .|.|PUNCT
+how|how|ADV could|could|VERB you|-PRON-|PRON jazell|jazell|VERB ?|?|PUNCT
+you|-PRON-|PRON could|could|VERB have|have|VERB gotten|get|VERB seriously|seriously|ADV hurt|hurt|VERB .|.|PUNCT
+plus|plus|CCONJ i|i|PRON bet|bet|VERB all|all|DET of|of|ADP us|-PRON-|PRON want|want|VERB a|a|DET shot|shot|NOUN at|at|ADP them|-PRON-|PRON too|too|ADV .|.|PUNCT
+she|-PRON-|PRON huffed|huff|VERB and|and|CCONJ shook|shake|VERB her|-PRON-|DET head|head|NOUN .|.|PUNCT
+the|the|DET light|light|ADJ brown|brown|ADJ curls|curl|NOUN that|that|DET framed|frame|VERB her|-PRON-|PRON pretty|pretty|ADJ face|face|NOUN bounced|bounce|VERB around|around|PART playfully|playfully|ADV .|.|PUNCT
+i|-PRON-|PRON m|be|VERB fine|fine|ADV emily|emily|ADV ,|,|PUNCT seriously|seriously|ADV .|.|PUNCT
+he|-PRON-|PRON never|never|ADV talked|talk|VERB much|much|ADV like|like|INTJ emily|emily|ADV ,|,|PUNCT who|who|PRON was|be|VERB easily|easily|ADV the|the|DET most|most|ADV talkative|talkative|ADJ ,|,|PUNCT friendly|friendly|ADJ person|person|NOUN i|i|PRON knew|know|VERB .|.|PUNCT
+jason|jason|NOUN was|be|VERB more|more|ADJ of|of|ADP the|the|DET silent|silent|ADJ ,|,|PUNCT watching|watch|VERB type|type|NOUN ,|,|PUNCT who|who|PRON said|say|VERB little|little|ADJ but|but|CCONJ noticed|notice|VERB much|much|ADV .|.|PUNCT
+i|i|PRON traced|trace|VERB in|in|ADP a|a|DET puddle|puddle|NOUN on|on|ADP the|the|DET table|table|NOUN ,|,|PUNCT avoiding|avoid|VERB everyones|everyone|NOUN eye|eye|NOUN contact|contact|NOUN as|as|ADP they|-PRON-|PRON stared|stare|VERB at|at|ADP me|-PRON-|PRON .|.|PUNCT
+emily|emily|ADV patted|pat|VERB my|-PRON-|DET arm|arm|NOUN .|.|PUNCT
+we|-PRON-|PRON are|be|VERB nt|not|ADV mad|mad|ADJ at|at|ADP you|-PRON-|PRON or|or|CCONJ anything|anything|NOUN .|.|PUNCT
+she|-PRON-|PRON glared|glare|VERB at|at|ADP him|-PRON-|PRON .|.|PUNCT
+you|-PRON-|PRON see|see|VERB ,|,|PUNCT everyone|everyone|NOUN makes|make|VERB mistakes|mistake|NOUN .|.|PUNCT
+seth|seth|ADJ grunted|grunt|VERB to|to|ADP himself|-PRON-|PRON .|.|PUNCT
+emily|emily|ADV rolled|roll|VERB her|-PRON-|DET eyes|eye|NOUN .|.|PUNCT
+hey|hey|INTJ seth|seth|ADJ ,|,|PUNCT its|-PRON-|DET not|not|ADV like|like|ADP you|-PRON-|PRON have|have|VERB nt|not|ADV done|do|VERB something|something|NOUN stupid|stupid|ADJ .|.|PUNCT
+we|-PRON-|PRON all|all|DET remember|remember|VERB the|the|DET swamp|swamp|NOUN troll|troll|NOUN .|.|PUNCT
+seth|seth|ADJ frowned|frown|VERB and|and|CCONJ jason|jason|NOUN snickered|snicker|VERB .|.|PUNCT
+seth|seth|ADJ punched|punch|VERB his|-PRON-|DET arm|arm|NOUN .|.|PUNCT
+hey|hey|INTJ do|do|VERB nt|not|ADV make|make|VERB me|-PRON-|PRON nag|nag|VERB you|-PRON-|PRON about|about|ADP the|the|DET time|time|NOUN you|-PRON-|PRON almost|almost|ADV took|take|VERB off|off|PART my|-PRON-|DET head|head|NOUN with|with|ADP your|-PRON-|DET throwing|throwing|NOUN knifes|knifes|NOUN .|.|PUNCT
+jason|jason|NOUN stopped|stop|VERB dead|dead|ADJ and|and|CCONJ narrowed|narrow|VERB his|-PRON-|DET eyes|eye|NOUN .|.|PUNCT
+it|-PRON-|PRON was|be|VERB an|an|DET accident|accident|NOUN .|.|PUNCT
+i|i|PRON did|do|VERB nt|not|ADV know|know|VERB you|-PRON-|PRON d|would|AUX run|run|VERB that|that|DET way|way|NOUN .|.|PUNCT
+alright|alright|INTJ ,|,|PUNCT we|-PRON-|PRON understand|understand|VERB that|that|ADP we|-PRON-|PRON ve|have|VERB all|all|ADV done|do|VERB stupid|stupid|ADJ ,|,|PUNCT foolish|foolish|ADJ things|thing|NOUN .|.|PUNCT
+so|so|ADV lets|let|VERB just|just|ADV add|add|VERB this|this|DET accident|accident|NOUN to|to|ADP my|-PRON-|DET list|list|NOUN ,|,|PUNCT okay|okay|ADJ ?|?|PUNCT
+i|i|PRON said|say|VERB quickly|quickly|ADV before|before|ADP the|the|DET two|two|NUM started|start|VERB something|something|NOUN .|.|PUNCT
+they|-PRON-|PRON nodded|nod|VERB but|but|CCONJ shot|shoot|VERB each|each|DET other|other|ADJ smirks|smirk|NOUN .|.|PUNCT
+i|i|PRON sighed|sigh|VERB ,|,|PUNCT wondering|wonder|VERB why|why|ADV those|those|DET two|two|NUM buffoons|buffoon|NOUN had|have|VERB been|be|VERB granted|grant|VERB this|this|DET power|power|NOUN along|along|ADP ,|,|PUNCT with|with|ADP emily|emily|ADV and|and|CCONJ me|-PRON-|PRON .|.|PUNCT
+its|-PRON-|DET not|not|ADV like|like|ADP they|-PRON-|PRON were|be|VERB nt|not|ADV foolish|foolish|ADJ enough|enough|ADV already|already|ADV .|.|PUNCT
+the|the|DET day|day|NOUN when|when|ADV it|-PRON-|PRON all|all|DET changed|change|VERB was|be|VERB still|still|ADV a|a|DET mystery|mystery|NOUN to|to|ADP us|-PRON-|PRON .|.|PUNCT
+a|a|DET lot|lot|NOUN of|of|ADP things|thing|NOUN happened|happen|VERB that|that|DET did|do|VERB nt|not|ADV quite|quite|ADV make|make|VERB sense|sense|NOUN .|.|PUNCT
+the|the|DET four|four|NUM of|of|ADP us|-PRON-|PRON were|be|VERB already|already|ADV best|good|ADJ friends|friend|NOUN .|.|PUNCT
+we|-PRON-|PRON were|be|VERB walking|walk|VERB through|through|ADP the|the|DET woods|wood|NOUN ,|,|PUNCT rambling|ramble|VERB on|on|PART about|about|ADP how|how|ADV halloween|halloween|NOUN was|be|VERB almost|almost|ADV here|here|ADV and|and|CCONJ that|that|ADP ms|ms|NOUN .|.|PUNCT
+stecher|stecher|ADJ was|be|VERB still|still|ADV giving|give|VERB us|-PRON-|PRON too|too|ADV much|much|ADJ homework|homework|NOUN .|.|PUNCT
+then|then|ADV all|all|DET of|of|ADP a|a|ADV sudden|sudden|ADV an|an|DET invisible|invisible|ADJ object|object|NOUN slammed|slam|VERB into|into|ADP me|-PRON-|PRON .|.|PUNCT
+i|i|PRON shrieked|shriek|VERB and|and|CCONJ could|could|AUX nt|not|ADV move|move|VERB .|.|PUNCT
+it|-PRON-|PRON had|have|VERB me|-PRON-|PRON pinned|pin|VERB to|to|ADP the|the|DET ground|ground|NOUN .|.|PUNCT
+seth|seth|ADJ ran|run|VERB forward|forward|ADV and|and|CCONJ grabbed|grab|VERB a|a|DET branch|branch|NOUN to|to|PART protect|protect|VERB me|-PRON-|PRON .|.|PUNCT
+it|-PRON-|PRON should|should|VERB have|have|VERB gone|go|VERB right|right|ADV through|through|ADP the|the|DET air|air|NOUN but|but|CCONJ it|-PRON-|PRON collided|collide|VERB into|into|ADP something|something|NOUN and|and|CCONJ snapped|snap|VERB in|in|ADP half|half|NOUN .|.|PUNCT
+seth|seth|ADJ dropped|drop|VERB it|-PRON-|PRON in|in|ADP amazement|amazement|NOUN .|.|PUNCT
+emily|emily|ADV ran|run|VERB over|over|PART to|to|ADP me|-PRON-|PRON but|but|CCONJ was|be|VERB plowed|plow|VERB to|to|ADP the|the|DET ground|ground|NOUN .|.|PUNCT
+she|-PRON-|PRON screamed|scream|VERB ,|,|PUNCT spitting|spit|VERB out|out|PART dirt|dirt|NOUN ,|,|PUNCT twigs|twig|NOUN and|and|CCONJ leaves|leave|NOUN .|.|PUNCT
+seth|seth|ADJ stood|stand|VERB watching|watch|VERB ,|,|PUNCT terrified|terrify|VERB .|.|PUNCT
+he|-PRON-|PRON did|do|VERB nt|not|ADV have|have|VERB a|a|DET clue|clue|NOUN as|as|ADP what|what|PRON to|to|PART do|do|VERB to|to|PART fight|fight|VERB these|these|DET invisible|invisible|ADJ creatures|creature|NOUN .|.|PUNCT
+none|none|NOUN of|of|ADP us|-PRON-|PRON did|did|VERB ,|,|PUNCT at|at|ADP that|that|DET time|time|NOUN ,|,|PUNCT because|because|ADP we|-PRON-|PRON did|do|VERB nt|not|ADV know|know|VERB what|what|PRON was|be|VERB going|go|VERB on|on|PART .|.|PUNCT
+the|the|DET world|world|NOUN was|be|VERB still|still|ADV a|a|DET normal|normal|ADJ place|place|NOUN to|to|ADP us|-PRON-|PRON at|at|ADP the|the|DET time|time|NOUN .|.|PUNCT
+something|something|NOUN grabbed|grab|VERB seths|seth|NOUN legs|leg|NOUN and|and|CCONJ pulled|pull|VERB him|-PRON-|PRON against|against|ADP a|a|DET tree|tree|NOUN .|.|PUNCT
+he|-PRON-|PRON kicked|kick|VERB and|and|CCONJ punched|punch|VERB but|but|CCONJ could|could|AUX nt|not|ADV find|find|VERB the|the|DET right|right|ADJ place|place|NOUN to|to|PART hit|hit|VERB his|-PRON-|DET attacker|attacker|NOUN .|.|PUNCT
+i|i|PRON opened|open|VERB my|-PRON-|DET mouth|mouth|NOUN to|to|PART say|say|VERB that|that|ADP we|-PRON-|PRON already|already|ADV were|be|VERB when|when|ADV he|-PRON-|PRON vanished|vanish|VERB .|.|PUNCT
+dragged|drag|VERB away|away|ADV was|be|VERB my|-PRON-|DET guess|guess|NOUN .|.|PUNCT
+my|-PRON-|DET legs|leg|NOUN shot|shoot|VERB with|with|ADP pain|pain|NOUN .|.|PUNCT
+i|i|PRON heard|hear|VERB emily|emily|ADV yell|yell|VERB the|the|DET first|first|ADJ curse|curse|NOUN words|word|NOUN i|-PRON-|PRON ve|have|VERB heard|hear|VERB her|-PRON-|PRON say|say|VERB in|in|ADP a|a|DET while|while|NOUN .|.|PUNCT
+i|i|PRON spotted|spot|VERB her|-PRON-|DET red|red|ADJ arm|arm|NOUN just|just|ADV before|before|ADP my|-PRON-|DET body|body|NOUN felt|feel|VERB like|like|ADP fire|fire|NOUN .|.|PUNCT
+i|i|PRON closed|close|VERB my|-PRON-|DET eyes|eye|NOUN and|and|CCONJ blacked|black|VERB out|out|PART .|.|PUNCT
+i|i|PRON did|do|VERB nt|not|ADV really|really|ADV black|black|ADJ out|out|PART but|but|CCONJ that|that|DET s|s|VERB what|what|PRON i|i|PRON thought|think|VERB at|at|ADP the|the|DET time|time|NOUN .|.|PUNCT
+i|i|PRON opened|open|VERB my|-PRON-|DET eyes|eye|NOUN to|to|PART find|find|VERB i|i|PRON was|be|VERB sitting|sit|VERB on|on|ADP the|the|DET ground|ground|NOUN next|next|ADV to|to|ADP my|-PRON-|DET sleeping|sleeping|NOUN body|body|NOUN .|.|PUNCT
+i|i|PRON saw|see|VERB emily|emily|ADV sitting|sit|VERB there|there|ADV ,|,|PUNCT saying|say|VERB nothing|nothing|NOUN for|for|ADP once|once|ADV .|.|PUNCT
+something|something|NOUN fell|fall|VERB off|off|PART my|-PRON-|DET back|back|NOUN and|and|CCONJ i|i|PRON picked|pick|VERB it|-PRON-|PRON up|up|PART .|.|PUNCT
+it|-PRON-|PRON was|be|VERB a|a|DET wooden|wooden|ADJ bow|bow|NOUN ,|,|PUNCT and|and|CCONJ when|when|ADV i|i|PRON reached|reach|VERB behind|behind|ADP my|-PRON-|DET back|back|NOUN i|i|PRON felt|feel|VERB a|a|DET quiver|quiver|NOUN full|full|ADJ of|of|ADP feathered|feather|VERB arrows|arrow|NOUN strapped|strap|VERB there|there|ADV .|.|PUNCT
+i|i|PRON ran|run|VERB a|a|DET finger|finger|NOUN over|over|ADP the|the|DET smooth|smooth|ADJ ,|,|PUNCT dark|dark|ADJ wood|wood|NOUN and|and|CCONJ turned|turn|VERB to|to|PART see|see|VERB seth|seth|ADJ crashing|crash|VERB out|out|ADP of|of|ADP the|the|DET woods|wood|NOUN .|.|PUNCT
+i|i|PRON smirked|smirk|VERB at|at|ADP him|-PRON-|PRON and|and|CCONJ pointed|point|VERB at|at|ADP his|-PRON-|DET head|head|NOUN .|.|PUNCT
+you|-PRON-|PRON have|have|VERB dark|dark|ADJ blue|blue|ADJ hair|hair|NOUN .|.|PUNCT
+i|i|PRON giggled|giggle|VERB ,|,|PUNCT not|not|ADV knowing|know|VERB why|why|ADV i|i|PRON was|be|VERB giggling|giggle|VERB after|after|ADP what|what|PRON had|have|VERB just|just|ADV happened|happen|VERB to|to|ADP us|-PRON-|PRON a|a|DET few|few|ADJ minutes|minute|NOUN ago|ago|ADV .|.|PUNCT
+he|-PRON-|PRON frowned|frown|VERB and|and|CCONJ pulled|pull|VERB a|a|DET piece|piece|NOUN or|or|CCONJ two|two|NUM out|out|ADP of|of|ADP his|-PRON-|DET head|head|NOUN .|.|PUNCT
+his|-PRON-|DET eyes|eye|NOUN widened|widen|VERB ,|,|PUNCT and|and|CCONJ i|i|PRON laughed|laugh|VERB at|at|ADP the|the|DET shock|shock|NOUN on|on|ADP his|-PRON-|DET face|face|NOUN .|.|PUNCT
+if|if|ADP we|-PRON-|PRON were|be|VERB dead|dead|ADJ ,|,|PUNCT which|which|DET was|be|VERB my|-PRON-|DET best|good|ADJ guess|guess|NOUN ,|,|PUNCT why|why|ADV not|not|ADV poke|poke|VERB fun|fun|NOUN at|at|ADP him|-PRON-|PRON ?|?|PUNCT
+seth|seth|ADJ smiled|smile|VERB at|at|ADP me|-PRON-|PRON .|.|PUNCT
+well|well|INTJ ,|,|PUNCT yes|yes|INTJ but|but|CCONJ you|-PRON-|PRON have|have|VERB green|green|ADJ hair|hair|NOUN .|.|PUNCT
+its|-PRON-|DET bright|bright|ADJ green|green|ADJ ,|,|PUNCT like|like|ADP neon|neon|NOUN green|green|ADJ .|.|PUNCT
+i|i|PRON shoved|shove|VERB my|-PRON-|DET hair|hair|NOUN in|in|ADP front|front|NOUN of|of|ADP my|-PRON-|DET face|face|NOUN .|.|PUNCT
+it|-PRON-|PRON was|be|VERB bright|bright|ADJ green|green|ADJ all|all|ADV right|right|ADV .|.|PUNCT
+i|i|PRON stood|stand|VERB up|up|PART and|and|CCONJ examined|examine|VERB myself|-PRON-|PRON .|.|PUNCT
+i|i|PRON was|be|VERB wearing|wear|VERB light|light|ADJ brown|brown|ADJ hunting|hunting|NOUN boots|boot|NOUN and|and|CCONJ tight|tight|ADJ black|black|ADJ pants|pant|NOUN made|make|VERB out|out|ADP of|of|ADP some|some|DET sort|sort|NOUN of|of|ADP light|light|ADJ cloth|cloth|NOUN .|.|PUNCT
+a|a|DET thick|thick|ADJ woven|woven|NOUN jacket|jacket|NOUN was|be|VERB shielding|shield|VERB me|-PRON-|PRON from|from|ADP the|the|DET october|october|NOUN cold|cold|ADJ .|.|PUNCT
+when|when|ADV i|i|PRON looked|look|VERB back|back|ADV at|at|ADP seth|seth|NOUN ,|,|PUNCT i|i|PRON realized|realize|VERB he|-PRON-|PRON had|have|VERB also|also|ADV made|make|VERB an|an|DET outfit|outfit|NOUN change|change|NOUN .|.|PUNCT
+he|-PRON-|PRON was|be|VERB wearing|wear|VERB black|black|ADJ leather|leather|NOUN boots|boot|NOUN and|and|CCONJ dark|dark|ADJ blue|blue|ADJ pants|pant|NOUN .|.|PUNCT
+his|-PRON-|DET top|top|NOUN was|be|VERB a|a|DET short|short|ADJ ,|,|PUNCT brown|brown|ADJ cloak|cloak|NOUN with|with|ADP a|a|DET hood|hood|NOUN and|and|CCONJ leather|leather|NOUN belt|belt|NOUN .|.|PUNCT
+a|a|DET beautiful|beautiful|ADJ steel|steel|NOUN sword|sword|NOUN with|with|ADP an|an|DET ornamental|ornamental|ADJ hilt|hilt|NOUN was|be|VERB swinging|swinge|VERB at|at|ADP his|-PRON-|DET side|side|NOUN from|from|ADP a|a|DET woven|weave|VERB sheath|sheath|NOUN .|.|PUNCT
+oh|oh|INTJ well|well|INTJ ,|,|PUNCT i|i|PRON guess|guess|VERB i|i|PRON have|have|VERB green|green|ADJ hair|hair|NOUN .|.|PUNCT
+its|-PRON-|DET not|not|ADV that|that|ADV bad|bad|ADJ .|.|PUNCT
+i|i|PRON rambled|ramble|VERB as|as|ADP i|i|PRON examined|examine|VERB the|the|DET short|short|ADJ hunting|hunting|NOUN knife|knife|NOUN that|that|DET was|be|VERB resting|rest|VERB in|in|ADP a|a|DET small|small|ADJ sheath|sheath|NOUN on|on|ADP my|-PRON-|DET hip|hip|NOUN .|.|PUNCT
+i|i|PRON ran|run|VERB a|a|DET finger|finger|NOUN over|over|ADP the|the|DET blade|blade|NOUN before|before|ADP putting|put|VERB it|-PRON-|PRON back|back|ADV .|.|PUNCT
+how|how|ADV seth|seth|ADJ and|and|CCONJ i|i|PRON had|have|VERB acquired|acquire|VERB such|such|ADJ dangerous|dangerous|ADJ weapons|weapon|NOUN was|be|VERB anyones|anyone|NOUN guess|guess|VERB .|.|PUNCT
+i|i|PRON certainly|certainly|ADV had|have|VERB no|no|DET clue|clue|NOUN .|.|PUNCT
+i|i|PRON heard|hear|VERB footsteps|footstep|NOUN and|and|CCONJ turned|turn|VERB to|to|PART see|see|VERB emily|emily|ADV running|run|VERB over|over|ADV .|.|PUNCT
+she|-PRON-|PRON was|be|VERB wearing|wear|VERB a|a|DET close|close|ADJ fitting|fitting|NOUN ,|,|PUNCT long|long|ADJ robe|robe|NOUN .|.|PUNCT
+it|-PRON-|PRON was|be|VERB a|a|DET stunning|stunning|ADJ deep|deep|ADJ blue|blue|NOUN with|with|ADP a|a|DET trim|trim|NOUN of|of|ADP gold|gold|NOUN embroidery|embroidery|NOUN .|.|PUNCT
+she|-PRON-|PRON had|have|VERB no|no|DET weapons|weapon|NOUN dangling|dangle|VERB from|from|ADP her|-PRON-|DET body|body|NOUN were|be|VERB visible|visible|ADJ from|from|ADP where|where|ADV i|i|PRON was|be|VERB standing|stand|VERB .|.|PUNCT
+i|i|PRON have|have|VERB pink|pink|ADJ hair|hair|NOUN !|!|PUNCT
+is|be|VERB nt|not|ADV it|-PRON-|PRON cool|cool|ADJ ?|?|PUNCT
+she|-PRON-|PRON spun|spin|VERB around|around|PART so|so|ADP we|-PRON-|PRON could|could|VERB take|take|VERB in|in|PART all|all|DET of|of|ADP its|-PRON-|DET bubblegum|bubblegum|ADJ pink|pink|ADJ color|color|NOUN .|.|PUNCT
+she|-PRON-|PRON looked|look|VERB at|at|ADP the|the|DET bow|bow|NOUN slung|sling|VERB over|over|ADP my|-PRON-|DET shoulder|shoulder|NOUN and|and|CCONJ seths|seth|NOUN gleaming|gleam|VERB sword|sword|NOUN .|.|PUNCT
+hey|hey|INTJ ,|,|PUNCT i|i|PRON do|do|VERB nt|not|ADV have|have|VERB anything|anything|NOUN cool|cool|ADJ and|and|CCONJ deadly|deadly|ADJ .|.|PUNCT
+why|why|ADV do|do|VERB you|-PRON-|PRON both|both|DET get|get|VERB something|something|NOUN like|like|ADP that|that|DET and|and|CCONJ i|i|PRON did|do|VERB nt|not|ADV ?|?|PUNCT
+its|-PRON-|DET not|not|ADV like|like|ADP you|-PRON-|PRON can|can|VERB trust|trust|VERB jazell|jazell|NOUN with|with|ADP something|something|NOUN sharp|sharp|ADJ or|or|CCONJ dangerous|dangerous|ADJ .|.|PUNCT
+we|-PRON-|PRON ca|can|AUX nt|not|ADV trust|trust|VERB you|-PRON-|PRON either|either|ADV .|.|PUNCT
+i|i|PRON pointed|point|VERB out|out|PART ,|,|PUNCT crossing|cross|VERB my|-PRON-|DET arms|arm|NOUN .|.|PUNCT
+arming|arming|NOUN you|-PRON-|PRON is|be|VERB as|as|ADV scary|scary|ADJ as|as|ADP giving|give|VERB a|a|DET kindergartener|kindergartener|NOUN a|a|DET knife|knife|NOUN .|.|PUNCT
+yeah|yeah|INTJ ,|,|PUNCT well|well|INTJ ,|,|PUNCT i|-PRON-|PRON m|be|VERB ignoring|ignore|VERB you|-PRON-|PRON now|now|ADV .|.|PUNCT
+she|-PRON-|PRON huffed|huff|VERB and|and|CCONJ turned|turn|VERB around|around|ADV .|.|PUNCT
+jason|jason|NOUN exclaimed|exclaim|VERB as|as|ADP he|-PRON-|PRON crashed|crash|VERB out|out|ADP of|of|ADP the|the|DET trees|tree|NOUN ,|,|PUNCT panting|pant|VERB .|.|PUNCT
+his|-PRON-|DET wavy|wavy|NOUN hair|hair|NOUN was|be|VERB a|a|DET deep|deep|ADJ red|red|NOUN that|that|DET framed|frame|VERB his|-PRON-|DET eyes|eye|NOUN but|but|CCONJ he|-PRON-|PRON did|do|VERB nt|not|ADV seem|seem|VERB to|to|PART have|have|VERB noticed|notice|VERB its|-PRON-|DET color|color|NOUN change|change|NOUN or|or|CCONJ to|to|PART care|care|VERB .|.|PUNCT
+he|-PRON-|PRON was|be|VERB wearing|wear|VERB an|an|DET all|all|DET black|black|ADJ layered|layer|VERB tunic|tunic|NOUN and|and|CCONJ pants|pant|NOUN with|with|ADP boots|boot|NOUN that|that|DET looked|look|VERB as|as|ADP light|light|NOUN as|as|ADP mine|-PRON-|PRON .|.|PUNCT
+if|if|ADP i|i|PRON did|do|VERB nt|not|ADV know|know|VERB it|-PRON-|PRON was|be|VERB jason|jason|ADJ ,|,|PUNCT i|i|PRON would|would|VERB have|have|VERB taken|take|VERB a|a|DET huge|huge|ADJ step|step|NOUN backwards|backwards|ADV at|at|ADP his|-PRON-|DET assassin|assassin|NOUN -|-|PUNCT like|like|ADJ appearance|appearance|NOUN .|.|PUNCT
+what|what|PRON s|s|VERB going|go|VERB on|on|PART ?|?|PUNCT
+he|-PRON-|PRON demanded|demand|VERB ,|,|PUNCT eyes|eye|NOUN flickering|flicker|VERB from|from|ADP each|each|DET of|of|ADP us|-PRON-|PRON as|as|ADP he|-PRON-|PRON took|take|VERB in|in|PART all|all|DET of|of|ADP our|-PRON-|DET strange|strange|ADJ appearances|appearance|NOUN .|.|PUNCT
+do|do|VERB nt|not|ADV know|know|VERB jason|jason|NOUN ,|,|PUNCT were|be|VERB as|as|ADV stumped|stumped|ADJ as|as|ADP you|-PRON-|PRON .|.|PUNCT
+he|-PRON-|PRON bit|bite|VERB his|-PRON-|DET lip|lip|NOUN and|and|CCONJ then|then|ADV smirked|smirk|VERB .|.|PUNCT
+oh|oh|INTJ ,|,|PUNCT i|i|PRON almost|almost|ADV forgot|forget|VERB .|.|PUNCT
+he|-PRON-|PRON gestured|gesture|VERB at|at|ADP his|-PRON-|DET belt|belt|NOUN ,|,|PUNCT grinning|grin|VERB mischievously|mischievously|ADV .|.|PUNCT
+hanging|hang|VERB there|there|ADV were|be|VERB a|a|DET multitude|multitude|NOUN of|of|ADP thin|thin|ADJ ,|,|PUNCT dangerous|dangerous|ADJ looking|look|VERB knives|knife|NOUN .|.|PUNCT
+he|-PRON-|PRON pulled|pull|VERB up|up|PART his|-PRON-|DET sleeve|sleeve|NOUN so|so|ADP i|i|PRON could|could|VERB see|see|VERB another|another|DET one|one|NOUN strapped|strap|VERB there|there|ADV .|.|PUNCT
+emily|emily|ADV had|have|VERB turned|turn|VERB to|to|PART see|see|VERB jason|jason|NOUN appear|appear|VERB .|.|PUNCT
+she|-PRON-|PRON spotted|spot|VERB his|-PRON-|DET knives|knife|NOUN and|and|CCONJ groaned|groan|VERB ,|,|PUNCT stomping|stomp|VERB her|-PRON-|DET foot|foot|NOUN .|.|PUNCT
+jason|jason|NOUN whispered|whisper|VERB behind|behind|ADP his|-PRON-|DET hand|hand|NOUN to|to|ADP seth|seth|VERB and|and|CCONJ i.|i.|VERB what|what|PRON s|s|VERB up|up|PART with|with|ADP her|-PRON-|PRON ?|?|PUNCT
+i|i|PRON do|do|VERB nt|not|ADV know|know|VERB .|.|PUNCT
+that|that|DET s|s|VERB when|when|ADV suddenly|suddenly|ADV a|a|DET hideous|hideous|ADJ creature|creature|NOUN appeared|appear|VERB in|in|ADP front|front|NOUN of|of|ADP us|-PRON-|PRON .|.|PUNCT
+it|-PRON-|PRON was|be|VERB hunched|hunch|VERB over|over|PART ,|,|PUNCT with|with|ADP thick|thick|ADJ furry|furry|ADJ skin|skin|NOUN and|and|CCONJ wicked|wicked|ADJ claws|claws|NOUN that|that|DET shot|shoot|VERB out|out|ADP of|of|ADP its|-PRON-|DET curled|curl|VERB paws|paw|NOUN .|.|PUNCT
+we|-PRON-|PRON would|would|VERB soon|soon|ADV know|know|VERB them|-PRON-|PRON as|as|ADP thrashers|thrasher|NOUN ,|,|PUNCT beasts|beast|NOUN we|-PRON-|PRON would|would|VERB get|get|VERB used|use|VERB to|to|ADP seeing|see|VERB .|.|PUNCT
+i|i|PRON do|do|VERB nt|not|ADV know|know|VERB who|who|PRON screeched|screech|VERB louder|louder|ADV in|in|ADP fear|fear|NOUN ,|,|PUNCT but|but|CCONJ i|-PRON-|PRON m|be|VERB pretty|pretty|ADV sure|sure|ADJ it|-PRON-|PRON might|may|VERB have|have|VERB been|be|VERB me|-PRON-|PRON .|.|PUNCT
+seth|seth|ADJ pulled|pull|VERB his|-PRON-|DET sword|sword|NOUN out|out|PART but|but|CCONJ his|-PRON-|DET hand|hand|NOUN shook|shake|VERB like|like|ADP mad|mad|ADJ .|.|PUNCT
+i|i|PRON clumsily|clumsily|ADV pulled|pull|VERB an|an|DET arrow|arrow|NOUN out|out|ADP of|of|ADP the|the|DET quiver|quiver|NOUN on|on|ADP my|-PRON-|DET back|back|NOUN and|and|CCONJ struggled|struggle|VERB to|to|PART attach|attach|VERB it|-PRON-|PRON to|to|ADP my|-PRON-|DET bow|bow|NOUN .|.|PUNCT
+how|how|ADV the|the|DET heck|heck|NOUN did|did|VERB those|those|DET people|people|NOUN in|in|ADP movies|movie|NOUN make|make|VERB this|this|DET look|look|NOUN so|so|ADV easy|easy|ADJ ?|?|PUNCT
+i|i|PRON exchanged|exchange|VERB a|a|DET look|look|NOUN with|with|ADP seth|seth|NOUN ,|,|PUNCT but|but|CCONJ he|-PRON-|PRON looked|look|VERB as|as|ADP clueless|clueless|ADJ as|as|ADP i|i|PRON did|did|VERB .|.|PUNCT
+none|none|NOUN of|of|ADP this|this|DET felt|feel|VERB real|real|ADJ .|.|PUNCT
+i|i|PRON swear|swear|VERB ,|,|PUNCT the|the|DET creature|creature|NOUN laughed|laugh|VERB at|at|ADP us|-PRON-|PRON .|.|PUNCT
+or|or|CCONJ maybe|maybe|ADV my|-PRON-|DET fear|fear|NOUN was|be|VERB making|make|VERB me|-PRON-|PRON see|see|VERB and|and|CCONJ hear|hear|VERB things|thing|NOUN .|.|PUNCT
+jason|jason|PROPN moved|move|VERB silently|silently|ADV to|to|PART stand|stand|VERB beside|beside|ADP us|-PRON-|PRON ,|,|PUNCT one|one|NUM of|of|ADP his|-PRON-|DET throwing|throw|VERB knives|knife|NOUN in|in|ADP his|-PRON-|DET hand|hand|NOUN .|.|PUNCT
+what|what|PRON do|do|VERB we|-PRON-|PRON do|do|VERB ?|?|PUNCT
+were|be|VERB dead|dead|ADJ so|so|ADP it|-PRON-|PRON ca|can|AUX nt|not|ADV hurt|hurt|VERB us|-PRON-|PRON right|right|ADJ ?|?|PUNCT
+i|i|PRON do|do|VERB nt|not|ADV feel|feel|VERB dead|dead|ADJ .|.|PUNCT
+i|i|PRON did|do|VERB nt|not|ADV either|either|ADV .|.|PUNCT
+in|in|ADP fact|fact|NOUN ,|,|PUNCT i|i|PRON realized|realize|VERB that|that|ADP my|-PRON-|DET whole|whole|ADJ body|body|NOUN was|be|VERB aching|ache|VERB from|from|ADP the|the|DET strange|strange|ADJ attack|attack|NOUN i|i|PRON had|have|VERB experienced|experience|VERB .|.|PUNCT
+and|and|CCONJ if|if|ADP i|i|PRON was|be|VERB dead|dead|ADJ ,|,|PUNCT i|i|PRON would|would|AUX nt|not|ADV need|need|VERB to|to|PART breathe|breathe|VERB so|so|ADV heavily|heavily|ADV .|.|PUNCT
