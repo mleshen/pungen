@@ -11,7 +11,7 @@ from .utils import sentence_iterator, Word
 import logging
 logger = logging.getLogger('pungen')
 
-
+# define rich comparison ordering methods
 @total_ordering
 class Template(object):
     def __init__(self, tokens, keyword, id_):
@@ -19,11 +19,13 @@ class Template(object):
         self.tokens = tokens
         self.keyword_positions = [i for i, w in enumerate(tokens) if w == keyword]
         self.num_key = len(self.keyword_positions)
+        # the key_word id is the largest index in keyword_positions, or the last instance of the word
         self.keyword_id = None if self.num_key == 0 else max(self.keyword_positions)
 
     def __len__(self):
         return len(self.tokens)
 
+    # the swap part of retrieve + swap
     def replace_keyword(self, word):
         tokens = list(self.tokens)
         tokens[self.keyword_id] = word
@@ -32,6 +34,7 @@ class Template(object):
     def __str__(self):
         return ' '.join(['[{}]'.format(w) if i == self.keyword_id else w for i, w in enumerate(self.tokens)])
 
+    # for ranking the words by the placement in the sentence
     def __lt__(self, other):
         # Containing keyword is better
         if self.num_key == 0:
